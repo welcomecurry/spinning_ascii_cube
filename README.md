@@ -1,5 +1,5 @@
 # spinning_ascii_cube
 
-Spinny!
+Spin me right round
 
-<img width="604" alt="image" src="https://user-images.githubusercontent.com/61104530/197657850-65b89cb6-d890-4f2f-8100-c3e83d53c040.png">
+![Recording 2022-10-24 at 18 01 33](https://user-images.githubusercontent.com/61104530/197658006-644667e5-9ae7-476f-a52b-d3d8afb13711.gif)
